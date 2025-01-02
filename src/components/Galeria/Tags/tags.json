@@ -16,11 +16,16 @@
         },
     {
             "id": 3,
-            "titulo": "Planetas",
+            "titulo": "Nebulosas",
             "tag":4
         },
-    {
+        {
             "id": 4,
+            "titulo": "Planetas",
+            "tag":5
+        },
+    {
+            "id": 5,
             "titulo": "Todas"
         }
 ]

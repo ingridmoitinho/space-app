@@ -39,7 +39,7 @@
     "fonte": "Alura Space",
     "path": "/imagens/galeria/foto-6.png",
     "id": "6",
-    "tagId": 4
+    "tagId": 2
   },
   {
     "titulo": "Galáxia de Andrómeda",
@@ -53,7 +53,7 @@
     "fonte": "Alura Space",
     "path": "/imagens/galeria/foto-8.png",
     "id": "8",
-    "tagId": 4
+    "tagId": 2
   },
   {
     "titulo": "Céu estrelado",
@@ -68,5 +68,61 @@
     "path": "/imagens/galeria/foto-10.png",
     "id": "10",
     "tagId": 1
+  },
+  {
+    "titulo": "As Plêiades",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-11.png",
+    "id": "11",
+    "tagId": 1
+  },
+  {
+    "titulo": "Nebulosa de Órion",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-12.png",
+    "id": "12",
+    "tagId": 4
+  },
+  {
+    "titulo": "Planeta Terra",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-13.png",
+    "id": "13",
+    "tagId": 5
+  },
+  {
+    "titulo": "Planeta Jupiter",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-14.png",
+    "id": "14",
+    "tagId": 5
+  },
+  {
+    "titulo": "Planeta Marte",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-15.png",
+    "id": "15",
+    "tagId": 5
+  },
+  {
+    "titulo": "Planeta Saturno",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-16.png",
+    "id": "16",
+    "tagId": 5
+  },
+  {
+    "titulo": "Nebulosa do Coração - IC 1805",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-17.png",
+    "id": "17",
+    "tagId": 4
+  },
+  {
+    "titulo": "Lua Cheia",
+    "fonte": "Google",
+    "path": "/imagens/galeria/foto-18.png",
+    "id": "18",
+    "tagId": 3
   }
 ]

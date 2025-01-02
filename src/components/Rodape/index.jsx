@@ -22,8 +22,12 @@ const IconeContainer = styled.ul`
 `;
 
 const RodapeTexto = styled.p`
-    font-size: 16px;
-    color: white;
+    font-size: 1.2rem;    color: white;
+    margin: 0;
+`;
+const RodapeTexto2 = styled.p`
+    font-size: 1.2rem;    
+    color: #6da4d8;
     margin: 0;
 `;
 
@@ -47,7 +51,8 @@ function Rodape() {
                     </a>
                 </li>
             </IconeContainer>
-            <RodapeTexto>Desenvolvido por Alura, 2025.</RodapeTexto>
+            <RodapeTexto>Desenvolvido por Alura</RodapeTexto>
+            <RodapeTexto2>Ingrid Moitinho,  2025.</RodapeTexto2>
         </RodapeEstilizado>
     );
 }
